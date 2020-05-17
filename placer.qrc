@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/examples">
+        <file>fract.txt</file>
+        <file>fract</file>
+    </qresource>
+</RCC>
