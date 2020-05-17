@@ -13,6 +13,6 @@ At each partitioning step, a subregion of the chip is divided into two halves, a
 * Click Build/Run
 
 ## Dependencies
-* [Qt 5.14!](https://www.qt.io) GUI library
-* [Eigen!](http://eigen.tuxfamily.org) Linear algebra library
+* [Qt 5.14](https://www.qt.io) GUI library
+* [Eigen](http://eigen.tuxfamily.org) Linear algebra library
 
